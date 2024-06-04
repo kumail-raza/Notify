@@ -2,7 +2,7 @@
 
 Notify as a Service is an advanced notification system built using ASP.NET Core and MongoDB. It allows seamless and efficient sending of synchronous and asynchronous messages, ensuring reliable delivery through integrated checks.
 
-![notify](https://github.com/thisisnabi/Notify/assets/3371886/6a254adb-2733-451a-8d2a-3e2ee8e13d65)
+https://github.com/thisisnabi/Notify
 
 
 ## Features
